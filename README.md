@@ -2,6 +2,11 @@
 
 <h1>SALVE!!</h1>
 
+ <img
+        src="https://komarev.com/ghpvc/?username=andrephelipe&label=Profile%20views&color=0e75b6&style=flat&theme=dracula"
+        alt="visitor counter"
+    />
+
 **andrephelipe/andrephelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
